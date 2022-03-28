@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-wdgs@%gk9@q13&_ut^u9r@s=6vom-4u_c555#_i089h^cx($(8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*','localhost','stockmanager2.herokuapp.com','http//:127.0.0.1']
 
